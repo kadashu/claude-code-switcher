@@ -1,5 +1,5 @@
 {
-  "name": "@wcldyx/claude-code-switcher",
+  "name": "@kadashu/claude-code-switcher",
   "version": "1.0.22",
   "description": "Claude Code环境变量快速切换工具 - A powerful CLI tool for switching Claude Code environment configurations and API providers",
   "main": "src/index.js",
@@ -40,12 +40,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/wcldyx/claude-code-switcher.git"
+    "url": "git+https://github.com/kadashu/claude-code-switcher.git"
   },
   "bugs": {
-    "url": "https://github.com/wcldyx/claude-code-switcher/issues"
+    "url": "https://github.com/kadashu/claude-code-switcher/issues"
   },
-  "homepage": "https://github.com/wcldyx/claude-code-switcher#readme",
+  "homepage": "https://github.com/kadashu/claude-code-switcher#readme",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.67.0",
     "chalk": "^4.1.2",
